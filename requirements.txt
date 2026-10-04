@@ -1,0 +1,16 @@
+# Core Web Application Framework & WSGI Server
+streamlit
+streamlit-webrtc
+gunicorn
+
+# Computer Vision & Face Recognition Engine
+opencv-contrib-python-headless
+numpy
+pillow
+
+# Data Handling & Attendance Reports
+pandas
+openpyxl
+
+# Desktop GUI Support (optional for desktop app)
+customtkinter
